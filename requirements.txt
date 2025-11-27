@@ -1,0 +1,14 @@
+Flask==2.2.5
+pytest==8.3.4
+requests==2.31.0
+selenium==4.11.2
+behave==1.2.7
+coverage==7.3.1
+pytest-mock==3.10.0
+
+
+# Optional: for sqlite fixtures (but sqlite3 is builtin)
+
+
+# If you use ChromeDriverManager to simplify running Selenium locally
+webdriver-manager==3.8.6
